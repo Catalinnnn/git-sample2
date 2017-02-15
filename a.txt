@@ -4,3 +4,4 @@ Some changes#2
 Some changes#3
 Some changes#4
 New branch changes#1
+New branch changes#2
